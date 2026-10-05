@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaf39df1-a8f8-47a9-b8fe-381b33aa33a2" name="Changes" comment="first">
+      <changelist_data name="Professional" email="oleg190353@gmail.com" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tinter_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ветвления.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Генераторы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/декораторы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/строки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/цикл _while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PPBU_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PPBU_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cтроки.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/date_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/date_time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/fraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.mp3.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/music.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkinter_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/tkinter_start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/будильник.py" beforeDir="false" afterPath="$PROJECT_DIR$/Будильник.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/множества.py" beforeDir="false" afterPath="$PROJECT_DIR$/множества.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/словари.py" beforeDir="false" afterPath="$PROJECT_DIR$/словари.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/списки.py" beforeDir="false" afterPath="$PROJECT_DIR$/списки.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/функции.py" beforeDir="false" afterPath="$PROJECT_DIR$/функции.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/цикл_while.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Professional &lt;oleg190353@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="MaliciousPackageCheckinHandlerState">
+    <option name="packageCheck" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3KJK4V4iFoj1tO1P4OXUXZD0jMs" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Important Messages&quot;: &quot;VCS important messages&quot;,
+    &quot;Notification.DoNotAsk-Vcs Important Messages&quot;: &quot;true&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.date_time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ice_cream (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.open.json.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Будильник.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Генераторы.executor&quot;: &quot;Run&quot;,
+    &quot;Python.декораторы.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/PPBU_1&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Будильник" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PPBU_1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Будильник.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Будильник" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaf39df1-a8f8-47a9-b8fe-381b33aa33a2" name="Changes" comment="" />
+      <created>1791270053877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791270053877</updated>
+      <workItem from="1791270060680" duration="56000" />
+      <workItem from="1791270282009" duration="59000" />
+      <workItem from="1791270347176" duration="29000" />
+      <workItem from="1791270378728" duration="159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
