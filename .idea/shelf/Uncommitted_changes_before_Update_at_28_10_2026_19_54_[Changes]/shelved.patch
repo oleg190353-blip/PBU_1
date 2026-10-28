@@ -1,0 +1,655 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"02fc080c-7670-489c-95ed-54c1ef6b0d70\" name=\"Changes\" comment=\"first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;\">\r\n      <change afterPath=\"$PROJECT_DIR$/1 Крипто-Валютный конвертор.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/2 Крипто-валютный конвертор.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/3 Крипто-валютный конвертор.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/OOP4.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/нумпай.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/PPBU_1.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/PPBU_1.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/vcs.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"Professional &lt;oleg190353@gmail.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"SIGN_OFF_COMMIT\" value=\"true\" />\r\n  </component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/oleg190353-blip/PBU_1\",\r\n    \"accountId\": \"6938df0b-7322-4b5f-9385-3f2ff30ca7a8\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"ProjectErrors\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3LGvgJFFj0AmgAgJHfJ2iy14X4B\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.OOP1.executor\": \"Run\",\r\n    \"Python.OOP2.executor\": \"Run\",\r\n    \"Python.OOP3.executor\": \"Run\",\r\n    \"Python.fraction.executor\": \"Run\",\r\n    \"Python.geolocation.executor\": \"Run\",\r\n    \"Python.geomap.executor\": \"Run\",\r\n    \"Python.Валюта_result.executor\": \"Run\",\r\n    \"Python.валюта.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"vcs.Git\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"02fc080c-7670-489c-95ed-54c1ef6b0d70\" name=\"Changes\" comment=\"\" />\r\n      <created>1793093331985</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1793093331985</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793099623258</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793099623259</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793099855655</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793099855655</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793100294992</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793100294992</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793100339840</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793100339840</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793183266052</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793183266053</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"UpdateCopyrightCheckinHandler\">\r\n    <option name=\"UPDATE_COPYRIGHT\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT\" value=\"true\" />\r\n    <option name=\"CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT\" value=\"true\" />\r\n    <option name=\"MARK_IGNORED_AS_EXCLUDED\" value=\"true\" />\r\n    <MESSAGE value=\"first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;\" />\r\n    <option name=\"OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT\" value=\"true\" />\r\n    <option name=\"REFORMAT_BEFORE_PROJECT_COMMIT\" value=\"true\" />\r\n    <option name=\"REARRANGE_BEFORE_PROJECT_COMMIT\" value=\"true\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision a2fef04b7603e5d69de835a31c1ae4aa1fe3767d)
++++ b/.idea/workspace.xml	(date 1793206146225)
+@@ -1,15 +1,10 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="02fc080c-7670-489c-95ed-54c1ef6b0d70" name="Changes" comment="first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;">
++    <list default="true" id="02fc080c-7670-489c-95ed-54c1ef6b0d70" name="Changes" comment="фигура">
+       <change afterPath="$PROJECT_DIR$/1 Крипто-Валютный конвертор.py" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/2 Крипто-валютный конвертор.py" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/3 Крипто-валютный конвертор.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/OOP4.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/нумпай.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/PPBU_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PPBU_1.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -25,6 +20,19 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <favorite-branches>
++      <branch-storage>
++        <map>
++          <entry type="LOCAL">
++            <value>
++              <list>
++                <branch-info repo="$PROJECT_DIR$" source="https/github.com/oleg190353-blip/PBU_1/commitsauthor=oleg190353-blip" />
++              </list>
++            </value>
++          </entry>
++        </map>
++      </branch-storage>
++    </favorite-branches>
+     <option name="PREVIOUS_COMMIT_AUTHORS">
+       <list>
+         <option value="Professional &lt;oleg190353@gmail.com&gt;" />
+@@ -32,14 +40,22 @@
+     </option>
+     <option name="PUSH_AUTO_UPDATE" value="true" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-    <option name="SIGN_OFF_COMMIT" value="true" />
+   </component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/oleg190353-blip/PBU_1",
+-    "accountId": "6938df0b-7322-4b5f-9385-3f2ff30ca7a8"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;oleg190353-blip&quot;
+   }
+-}]]></component>
++}</component>
++  <component name="GithubDefaultAccount">
++    <option name="defaultAccountId" value="2ac347da-5c16-43b4-a857-784783489f5f" />
++  </component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/oleg190353-blip/PBU_1&quot;,
++    &quot;accountId&quot;: &quot;2ac347da-5c16-43b4-a857-784783489f5f&quot;
++  }
++}</component>
+   <component name="ProblemsViewState">
+     <option name="selectedTabId" value="ProjectErrors" />
+   </component>
+@@ -57,6 +73,7 @@
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
++    "Python.3.executor": "Run",
+     "Python.OOP1.executor": "Run",
+     "Python.OOP2.executor": "Run",
+     "Python.OOP3.executor": "Run",
+@@ -72,7 +89,13 @@
+     "codeWithMe.voiceChat.enabledByDefault": "false",
+     "git-widget-placeholder": "master",
+     "ignore.virus.scanning.warn.message": "true",
+-    "settings.editor.selected.configurable": "vcs.Git"
++    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
++  },
++  "keyToStringList": {
++    "ChangesTree.GroupingKeys": [
++      "directory",
++      "repository"
++    ]
+   }
+ }]]></component>
+   <component name="SharedIndexes">
+@@ -130,7 +153,31 @@
+       <option name="project" value="LOCAL" />
+       <updated>1793183266053</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;">
++      <option name="closed" value="true" />
++      <created>1793184118505</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1793184118505</updated>
++    </task>
++    <task id="LOCAL-00007" summary="first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;">
++      <option name="closed" value="true" />
++      <created>1793184428878</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1793184428878</updated>
++    </task>
++    <task id="LOCAL-00008" summary="first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;">
++      <option name="closed" value="true" />
++      <created>1793190532576</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1793190532576</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -138,13 +185,25 @@
+   </component>
+   <component name="UpdateCopyrightCheckinHandler">
+     <option name="UPDATE_COPYRIGHT" value="true" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+     <option name="MARK_IGNORED_AS_EXCLUDED" value="true" />
+     <MESSAGE value="first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;" />
+-    <option name="LAST_COMMIT_MESSAGE" value="first&#10;&#10;Signed-off-by: Professional &lt;oleg190353@gmail.com&gt;" />
++    <MESSAGE value="фигура" />
++    <option name="LAST_COMMIT_MESSAGE" value="фигура" />
+     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+Index: 1 Крипто-Валютный конвертор.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/1 Крипто-Валютный конвертор.py b/1 Крипто-Валютный конвертор.py
+new file mode 100644
+--- /dev/null	(date 1792776870580)
++++ b/1 Крипто-Валютный конвертор.py	(date 1792776870580)
+@@ -0,0 +1,161 @@
++from tkinter import Tk, Label, Button, Entry, messagebox as mb
++from tkinter import ttk
++import requests
++
++# --- Списки валют ---
++crypto_codes = {
++    'BTC': 'Биткоин',
++    'ETH': 'Эфириум',
++    'USDT': 'Tether',
++    'BNB': 'Binance Coin',
++    'SOL': 'Solana',
++    'DOGE': 'Dogecoin',
++    'XRP': 'Ripple',
++    'ADA': 'Cardano',
++    'DOT': 'Polkadot',
++    'AVAX': 'Avalanche'
++}
++
++fiat_codes = {
++    'USD': 'Доллар США',
++    'EUR': 'Евро',
++    'RUB': 'Российский рубль',
++    'CNY': 'Китайский юань',
++    'GBP': 'Фунт стерлингов',
++    'JPY': 'Японская йена',
++    'KZT': 'Казахстанский тенге',
++    'UZS': 'Узбекский сум'
++}
++
++all_currencies = {**crypto_codes, **fiat_codes}
++
++def update_base_label(event=None):
++    code = base_combobox.get()
++    name = all_currencies.get(code, code)
++    base_label.config(text=name)
++    root.title(f'Курс обмена ({code})')
++
++def update_target_label(event=None):
++    code = target_combobox.get()
++    name = all_currencies.get(code, code)
++    target_label.config(text=name)
++
++def exchange():
++    # 1. Получаем и проверяем сумму
++    amount_str = amount_entry.get().strip()
++    try:
++        amount = float(amount_str)
++        if amount <= 0:
++            mb.showerror('Ошибка', 'Сумма должна быть больше нуля')
++            return
++    except ValueError:
++        mb.showerror('Ошибка', 'Введите корректное число (например, 100 или 12.5)')
++        return
++
++    # 2. Получаем валюты
++    target_code = target_combobox.get().strip().upper()
++    base_code = base_combobox.get().strip().upper()
++
++    if not target_code or not base_code:
++        mb.showwarning('Внимание', 'Выберите обе валюты')
++        return
++
++    if base_code not in all_currencies or target_code not in all_currencies:
++        mb.showerror('Ошибка', 'Некорректный код валюты')
++        return
++
++    # 3. Запрос к API
++    try:
++        url = f'https://api.coingecko.com/api/v3/simple/price?ids={base_code.lower()}&vs_currencies={target_code.lower()}'
++        resp = requests.get(url, timeout=5)
++        resp.raise_for_status()
++        data = resp.json()
++
++        base_data = data.get(base_code.lower())
++        if not base_data:
++            mb.showerror('Ошибка API', 'Данные по этой валюте не найдены')
++            return
++
++        rate = base_data.get(target_code.lower())
++        if rate is None:
++            mb.showerror('Ошибка', f'Курс {base_code} → {target_code} не найден')
++            return
++
++        # 4. Расчёт
++        result = amount * rate
++
++        base_name = all_currencies[base_code]
++        target_name = all_currencies[target_code]
++
++        # Подбираем точность вывода
++        if target_code == 'JPY':
++            fmt_rate = '.1f'
++            fmt_result = '.1f'
++        elif base_code in crypto_codes:
++            fmt_rate = '.6f'
++            fmt_result = '.6f'
++        else:
++            fmt_rate = '.4f'
++            fmt_result = '.2f'
++
++        # Показываем результат и в popup, и в окне
++        msg = f'Курс: 1 {base_name} = {rate:{fmt_rate}} {target_name}\n' \
++              f'Итого: {amount} {base_name} → {result:{fmt_result}} {target_name}'
++
++        result_label.config(
++            text=msg,
++            foreground='green'
++        )
++        mb.showinfo('Результат конвертации', msg)
++
++    except requests.exceptions.Timeout:
++        mb.showerror('Ошибка', 'Превышено время ожидания ответа от сервера')
++        result_label.config(text='', foreground='black')
++    except requests.exceptions.ConnectionError:
++        mb.showerror('Ошибка', 'Нет соединения с интернетом')
++        result_label.config(text='', foreground='black')
++    except requests.exceptions.HTTPError as e:
++        mb.showerror('Ошибка HTTP', f'Ошибка сервера: {e}')
++        result_label.config(text='', foreground='black')
++    except Exception as e:
++        mb.showerror('Неизвестная ошибка', str(e))
++        result_label.config(text='', foreground='black')
++
++root = Tk()
++root.title('Курс обмена (крипто + фиатные)')
++root.geometry('420x320')
++
++# Базовая валюта
++Label(root, text='Базовая валюта').pack(padx=10, anchor='w')
++base_combobox = ttk.Combobox(root, values=list(all_currencies.keys()), state='readonly')
++base_combobox.pack(pady=3, padx=10, fill='x')
++base_combobox.bind('<<ComboboxSelected>>', update_base_label)
++base_combobox.current(0)
++base_label = ttk.Label(root, font=('', 10, 'italic'))
++base_label.pack(anchor='w', padx=15)
++update_base_label()
++
++# Целевая валюта
++Label(root, text='Целевая валюта').pack(padx=10, anchor='w', pady=(10, 0))
++target_combobox = ttk.Combobox(root, values=list(all_currencies.keys()), state='readonly')
++target_combobox.pack(pady=3, padx=10, fill='x')
++target_combobox.bind('<<ComboboxSelected>>', update_target_label)
++target_combobox.current(1)
++target_label = ttk.Label(root, font=('', 10, 'italic'))
++target_label.pack(anchor='w', padx=15)
++update_target_label()
++
++# Поле суммы
++Label(root, text='Сумма для конвертации').pack(padx=10, anchor='w', pady=(10, 0))
++amount_entry = Entry(root)
++amount_entry.pack(pady=3, padx=10, fill='x')
++amount_entry.insert(0, '100')  # подсказка
++
++# Кнопка
++Button(root, text='Конвертировать', command=exchange).pack(pady=15, padx=10)
++
++# Результат (прямо в окне)
++result_label = Label(root, justify='left', anchor='w')
++result_label.pack(padx=10, pady=5, fill='both')
++
++root.mainloop()
+Index: 2 Крипто-валютный конвертор.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/2 Крипто-валютный конвертор.py b/2 Крипто-валютный конвертор.py
+new file mode 100644
+--- /dev/null	(date 1792780560514)
++++ b/2 Крипто-валютный конвертор.py	(date 1792780560514)
+@@ -0,0 +1,182 @@
++from tkinter import Tk, Label, Button, Entry, messagebox as mb
++from tkinter import ttk
++import requests
++
++# --- Словари: тикер -> название и тикер -> ID для API ---
++crypto_codes = {
++    'BTC': {'name': 'Биткоин', 'id': 'bitcoin'},
++    'ETH': {'name': 'Эфириум', 'id': 'ethereum'},
++    'USDT': {'name': 'Tether', 'id': 'tether'},
++    'BNB': {'name': 'Binance Coin', 'id': 'binancecoin'},
++    'SOL': {'name': 'Solana', 'id': 'solana'},
++    'DOGE': {'name': 'Dogecoin', 'id': 'dogecoin'},
++    'XRP': {'name': 'Ripple', 'id': 'ripple'},
++    'ADA': {'name': 'Cardano', 'id': 'cardano'},
++    'DOT': {'name': 'Polkadot', 'id': 'polkadot'},
++    'AVAX': {'name': 'Avalanche', 'id': 'avalanche'}
++}
++
++fiat_codes = {
++    'USD': {'name': 'Доллар США', 'id': 'usd'},
++    'EUR': {'name': 'Евро', 'id': 'eur'},
++    'RUB': {'name': 'Российский рубль', 'id': 'rub'},
++    'CNY': {'name': 'Китайский юань', 'id': 'cny'},
++    'GBP': {'name': 'Фунт стерлингов', 'id': 'gbp'},
++    'JPY': {'name': 'Японская йена', 'id': 'jpy'},
++    'KZT': {'name': 'Казахстанский тенге', 'id': 'kzt'},
++    'UZS': {'name': 'Узбекский сум', 'id': 'uzs'}
++}
++
++all_currencies = {**crypto_codes, **fiat_codes}
++
++
++def update_base_label(event=None):
++    code = base_combobox.get()
++    name = all_currencies.get(code, {}).get('name', code)
++    base_label.config(text=name)
++    root.title(f'Курс обмена ({code})')
++
++
++def update_target_label(event=None):
++    code = target_combobox.get()
++    name = all_currencies.get(code, {}).get('name', code)
++    target_label.config(text=name)
++
++
++def exchange():
++    # 1. Получаем и проверяем сумму
++    amount_str = amount_entry.get().strip()
++    try:
++        amount = float(amount_str)
++        if amount <= 0:
++            mb.showerror('Ошибка', 'Сумма должна быть больше нуля')
++            return
++    except ValueError:
++        mb.showerror('Ошибка', 'Введите корректное число (например, 100 или 12.5)')
++        return
++
++    # 2. Получаем валюты
++    target_code = target_combobox.get().strip().upper()
++    base_code = base_combobox.get().strip().upper()
++
++    if not target_code or not base_code:
++        mb.showwarning('Внимание', 'Выберите обе валюты')
++        return
++
++    base_info = all_currencies.get(base_code)
++    target_info = all_currencies.get(target_code)
++
++    if not base_info or not target_info:
++        mb.showerror('Ошибка', 'Некорректный код валюты')
++        return
++
++    # ВАЖНО: берём правильные ID для API
++    base_id = base_info['id']
++    target_id = target_info['id']
++
++    # 3. Запрос к API
++    url = f'https://api.coingecko.com/api/v3/simple/price?ids={base_id}&vs_currencies={target_id}'
++    headers = {'User-Agent': 'Mozilla/5.0'}
++
++    try:
++        resp = requests.get(url, headers=headers, timeout=10)
++        resp.raise_for_status()
++        data = resp.json()
++
++        # Структура ответа: {"bitcoin": {"usd": 68000}}
++        base_data = data.get(base_id)
++
++        if not base_data:
++            msg = f'Нет данных по валюте {base_code} (API вернул пустой объект)'
++            print(msg)
++            mb.showerror('Ошибка API', msg)
++            result_label.config(text='', foreground='black')
++            return
++
++        rate = base_data.get(target_id)
++        if rate is None:
++            msg = f'Курс {base_code} → {target_id} не найден (API вернул null)'
++            print(msg)
++            mb.showerror('Ошибка', msg)
++            result_label.config(text='', foreground='black')
++            return
++
++        # 4. Расчёт
++        result = amount * rate
++
++        base_name = base_info['name']
++        target_name = target_info['name']
++
++        # Подбираем точность вывода
++        if target_code == 'JPY':
++            fmt_rate = '.1f'
++            fmt_result = '.1f'
++        elif base_code in crypto_codes:
++            fmt_rate = '.2f'  # для крипто обычно хватает 2 знаков, если это не стейблкоины
++            fmt_result = '.2f'
++        else:
++            fmt_rate = '.4f'
++            fmt_result = '.2f'
++
++        msg = f'Курс: 1 {base_name} = {rate:{fmt_rate}} {target_name}\n' \
++              f'Итого: {amount} {base_name} → {result:{fmt_result}} {target_name}'
++
++        print(f"DEBUG: URL={url}, Rate={rate}, Result={result}")
++        result_label.config(text=msg, foreground='green')
++        mb.showinfo('Результат конвертации', msg)
++
++    except requests.exceptions.Timeout:
++        msg = 'Превышено время ожидания ответа от сервера'
++        print(msg)
++        mb.showerror('Ошибка', msg)
++        result_label.config(text='', foreground='black')
++    except requests.exceptions.ConnectionError:
++        msg = 'Нет соединения с интернетом или API недоступен'
++        print(msg)
++        mb.showerror('Ошибка', msg)
++        result_label.config(text='', foreground='black')
++    except requests.exceptions.HTTPError as e:
++        msg = f'Ошибка HTTP: {e}'
++        print(msg)
++        mb.showerror('Ошибка HTTP', msg)
++        result_label.config(text='', foreground='black')
++    except Exception as e:
++        msg = f'Неизвестная ошибка: {e}'
++        print(msg)
++        mb.showerror('Неизвестная ошибка', str(e))
++        result_label.config(text='', foreground='black')
++
++
++root = Tk()
++root.title('Курс обмена (крипто + фиатные)')
++root.geometry('420x340')
++
++Label(root, text='Базовая валюта').pack(padx=10, anchor='w')
++base_combobox = ttk.Combobox(root, values=list(all_currencies.keys()), state='readonly')
++base_combobox.pack(pady=3, padx=10, fill='x')
++base_combobox.bind('<<ComboboxSelected>>', update_base_label)
++base_combobox.current(0)  # BTC
++base_label = ttk.Label(root, font=('', 10, 'italic'))
++base_label.pack(anchor='w', padx=15)
++update_base_label()
++
++Label(root, text='Целевая валюта').pack(padx=10, anchor='w', pady=(10, 0))
++target_combobox = ttk.Combobox(root, values=list(all_currencies.keys()), state='readonly')
++target_combobox.pack(pady=3, padx=10, fill='x')
++target_combobox.bind('<<ComboboxSelected>>', update_target_label)
++target_combobox.current(2)  # RUB
++target_label = ttk.Label(root, font=('', 10, 'italic'))
++target_label.pack(anchor='w', padx=15)
++update_target_label()
++
++Label(root, text='Сумма для конвертации').pack(padx=10, anchor='w', pady=(10, 0))
++amount_entry = Entry(root)
++amount_entry.pack(pady=3, padx=10, fill='x')
++amount_entry.insert(0, '100')
++
++Button(root, text='Конвертировать', command=exchange).pack(pady=15, padx=10)
++
++result_label = Label(root, justify='left', anchor='w', wraplength=400)
++result_label.pack(padx=10, pady=5, fill='both')
++
++root.mainloop()
+Index: 3 Крипто-валютный конвертор.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/3 Крипто-валютный конвертор.py b/3 Крипто-валютный конвертор.py
+new file mode 100644
+--- /dev/null	(date 1792782566787)
++++ b/3 Крипто-валютный конвертор.py	(date 1792782566787)
+@@ -0,0 +1,123 @@
++from tkinter import Tk, Label, Button, Entry, messagebox as mb
++from tkinter import ttk
++import requests
++
++# Словарь: тикер -> (название, ID для API)
++currencies = {
++    'BTC': ('Биткоин', 'bitcoin'),
++    'ETH': ('Эфириум', 'ethereum'),
++    'USD': ('Доллар США', 'usd'),
++    'EUR': ('Евро', 'eur'),
++    'RUB': ('Российский рубль', 'rub'),
++    'CNY': ('Китайский юань', 'cny'),
++}
++
++def update_labels():
++    base_code = base_combobox.get()
++    target_code = target_combobox.get()
++    b_name = currencies.get(base_code, (base_code, base_code))[0]
++    t_name = currencies.get(target_code, (target_code, target_code))[0]
++    base_label.config(text=b_name)
++    target_label.config(text=t_name)
++    root.title(f'{b_name} → {t_name}')
++
++def exchange():
++    # 1. Проверка суммы
++    try:
++        amount = float(amount_entry.get().strip())
++        if amount <= 0:
++            mb.showerror('Ошибка', 'Сумма должна быть больше 0')
++            return
++    except ValueError:
++        mb.showerror('Ошибка', 'Введите число (например, 100)')
++        return
++
++    # 2. Получаем валюты
++    base_code = base_combobox.get().upper()
++    target_code = target_combobox.get().upper()
++
++    if not base_code or not target_code:
++        mb.showwarning('Внимание', 'Выберите валюты')
++        return
++
++    base_name, base_id = currencies.get(base_code, (None, None))
++    target_name, target_id = currencies.get(target_code, (None, None))
++
++    if base_id is None or target_id is None:
++        mb.showerror('Ошибка', 'Неверный код валюты')
++        return
++
++    # 3. Запрос к API
++    url = f'https://api.coingecko.com/api/v3/simple/price?ids={base_id}&vs_currencies={target_id}'
++    headers = {'User-Agent': 'Mozilla/5.0'}
++
++    try:
++        resp = requests.get(url, headers=headers, timeout=10)
++        resp.raise_for_status()
++        data = resp.json()
++
++        base_data = data.get(base_id)
++        if not base_data:
++            mb.showerror('API Error', f'Нет данных для {base_code}')
++            result_label.config(text='', fg='black')
++            return
++
++        rate = base_data.get(target_id)
++        if rate is None:
++            mb.showerror('API Error', 'Курс не найден')
++            result_label.config(text='', fg='black')
++            return
++
++        # 4. Расчёт
++        result = amount * rate
++
++        # Форматирование
++        fmt_rate = '.4f'
++        fmt_res = '.2f'
++
++        msg = (f"Курс: 1 {base_name} = {rate:{fmt_rate}} {target_name}\n"
++               f"Итого: {amount} {base_name} → {result:{fmt_res}} {target_name}")
++
++        print(f"DEBUG: {url} | Rate={rate} | Result={result}")
++        result_label.config(text=msg, fg='green')
++        mb.showinfo('Результат', msg)
++
++    except Exception as e:
++        mb.showerror('Ошибка', str(e))
++        result_label.config(text='', fg='black')
++
++root = Tk()
++root.title('Конвертер валют')
++root.geometry('400x350')
++
++# Базовая валюта (От)
++Label(root, text='От (Base)').pack(padx=10, anchor='w')
++base_combobox = ttk.Combobox(root, values=list(currencies.keys()), state='readonly')
++base_combobox.pack(pady=3, padx=10, fill='x')
++base_combobox.bind('<<ComboboxSelected>>', lambda e: update_labels())
++base_combobox.current(2)  # По умолчанию USD
++base_label = Label(root, font=('Arial', 10, 'italic'), fg='gray')
++base_label.pack(anchor='w', padx=20)
++
++# Целевая валюта (В)
++Label(root, text='В (Target)').pack(padx=10, anchor='w', pady=(15, 0))
++target_combobox = ttk.Combobox(root, values=list(currencies.keys()), state='readonly')
++target_combobox.pack(pady=3, padx=10, fill='x')
++target_combobox.bind('<<ComboboxSelected>>', lambda e: update_labels())
++target_combobox.current(4)  # По умолчанию RUB
++target_label = Label(root, font=('Arial', 10, 'italic'), fg='gray')
++target_label.pack(anchor='w', padx=20)
++
++# Сумма
++Label(root, text='Сумма').pack(padx=10, anchor='w', pady=(15, 0))
++amount_entry = Entry(root)
++amount_entry.pack(pady=5, padx=10, fill='x')
++amount_entry.insert(0, '1')
++
++Button(root, text='Конвертировать', command=exchange, bg='#dddddd').pack(pady=15)
++
++result_label = Label(root, justify='left', anchor='w', wraplength=380, font=('Consolas', 11))
++result_label.pack(padx=10, pady=5)
++
++update_labels()
++root.mainloop()
